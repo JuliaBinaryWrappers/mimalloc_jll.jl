@@ -1,6 +1,6 @@
 name = "mimalloc_jll"
 uuid = "38cef826-3163-5c31-a333-3957420b3fb7"
-version = "2.0.6+0"
+version = "2.0.7+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
