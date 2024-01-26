@@ -7,7 +7,7 @@ function __init__()
     JLLWrappers.@generate_init_header()
     JLLWrappers.@init_library_product(
         libmimalloc,
-        "lib/libmimalloc.2.0.dylib",
+        "lib/libmimalloc.2.1.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 

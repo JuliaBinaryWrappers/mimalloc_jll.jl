@@ -1,143 +1,143 @@
 [[mimalloc]]
 arch = "aarch64"
-git-tree-sha1 = "8911810b256c20397dcd5aa10cfc9eaa7542304b"
+git-tree-sha1 = "be818bf46626318e89858e06203fcec86e298883"
 os = "macos"
 
     [[mimalloc.download]]
-    sha256 = "603a06c7a88c9d4bb4c7f88d4d5180a822f0f6d633d7add7a6426df9167cac5c"
-    url = "https://github.com/JuliaBinaryWrappers/mimalloc_jll.jl/releases/download/mimalloc-v2.0.7+0/mimalloc.v2.0.7.aarch64-apple-darwin.tar.gz"
+    sha256 = "54aa10bae0a06b90a347be45345f062ee90d366e86cd86389cef4e8d0cd369c2"
+    url = "https://github.com/JuliaBinaryWrappers/mimalloc_jll.jl/releases/download/mimalloc-v2.1.2+0/mimalloc.v2.1.2.aarch64-apple-darwin.tar.gz"
 [[mimalloc]]
 arch = "aarch64"
-git-tree-sha1 = "7a0cc9ab9d619c4448f9235ed06fc4a47012f3ca"
+git-tree-sha1 = "035607db904f90eb441fd6feea2f0424791f22f4"
 libc = "glibc"
 os = "linux"
 
     [[mimalloc.download]]
-    sha256 = "f456f3382dab1cf4e1f013e0dbeb74d57528d728d4d2e0592170f57d58df3aa9"
-    url = "https://github.com/JuliaBinaryWrappers/mimalloc_jll.jl/releases/download/mimalloc-v2.0.7+0/mimalloc.v2.0.7.aarch64-linux-gnu.tar.gz"
+    sha256 = "7ac8449eabf30b22dd6a0ff62c7cedbbc9de80f904f19f06ac90435b40582024"
+    url = "https://github.com/JuliaBinaryWrappers/mimalloc_jll.jl/releases/download/mimalloc-v2.1.2+0/mimalloc.v2.1.2.aarch64-linux-gnu.tar.gz"
 [[mimalloc]]
 arch = "aarch64"
-git-tree-sha1 = "83b08451cd165a5c04f011779f22b0c84c2e61ba"
+git-tree-sha1 = "bff90b5c0e4851b6ee8c6928987befcfbd46962e"
 libc = "musl"
 os = "linux"
 
     [[mimalloc.download]]
-    sha256 = "e6ab7be76b715ece9b7016e5f48bc30e93f2d5d2abc657160ac59b710466578a"
-    url = "https://github.com/JuliaBinaryWrappers/mimalloc_jll.jl/releases/download/mimalloc-v2.0.7+0/mimalloc.v2.0.7.aarch64-linux-musl.tar.gz"
+    sha256 = "ce6f9e99a2f68a57ce699fa9d303b653ed62afeec13b9d63a6f0644417125b53"
+    url = "https://github.com/JuliaBinaryWrappers/mimalloc_jll.jl/releases/download/mimalloc-v2.1.2+0/mimalloc.v2.1.2.aarch64-linux-musl.tar.gz"
 [[mimalloc]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "86af6ace1c99d1160afb9d7b898a3f6780a6b278"
+git-tree-sha1 = "2dc25d65fad0318d17ba1a912ebe48a170c97b96"
 libc = "glibc"
 os = "linux"
 
     [[mimalloc.download]]
-    sha256 = "4566e008e683a8b812fb457fb1746f0fe02a8ee3c037e9e5e80c55c3376c3b94"
-    url = "https://github.com/JuliaBinaryWrappers/mimalloc_jll.jl/releases/download/mimalloc-v2.0.7+0/mimalloc.v2.0.7.armv6l-linux-gnueabihf.tar.gz"
+    sha256 = "f45838526239b3a9c0e91ae4ba1a0bec34cb42e4d8ad631640b014eb0e080d20"
+    url = "https://github.com/JuliaBinaryWrappers/mimalloc_jll.jl/releases/download/mimalloc-v2.1.2+0/mimalloc.v2.1.2.armv6l-linux-gnueabihf.tar.gz"
 [[mimalloc]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "f977fad68c568fe04bfa054dfb4c28ca3eaa4600"
+git-tree-sha1 = "2e39fe76fc4d19cee8264aa34367585d86035b67"
 libc = "musl"
 os = "linux"
 
     [[mimalloc.download]]
-    sha256 = "a5891a0ea9c7a15d4b7cb85e0f580bd60c5981f231bf5e6e2d8ba0fb9bfea255"
-    url = "https://github.com/JuliaBinaryWrappers/mimalloc_jll.jl/releases/download/mimalloc-v2.0.7+0/mimalloc.v2.0.7.armv6l-linux-musleabihf.tar.gz"
+    sha256 = "6a6616229b3fa44457eba98e6564b3b4965ba1c253eefa0fcd6edb619842f93e"
+    url = "https://github.com/JuliaBinaryWrappers/mimalloc_jll.jl/releases/download/mimalloc-v2.1.2+0/mimalloc.v2.1.2.armv6l-linux-musleabihf.tar.gz"
 [[mimalloc]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "9ffb673bb09ea77e4e5d8feddf04e7bb4e983bfc"
+git-tree-sha1 = "28dbc3da945da785fc56c9ed399c6ed1aa071b2f"
 libc = "glibc"
 os = "linux"
 
     [[mimalloc.download]]
-    sha256 = "ffac6e292b4bbeb0ae44ef2f916137a402b24eb379add834cad8a4416d0109e4"
-    url = "https://github.com/JuliaBinaryWrappers/mimalloc_jll.jl/releases/download/mimalloc-v2.0.7+0/mimalloc.v2.0.7.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "7435bfee27d055f36ca5a8d92d38b6c8e4b9385abbd47a7f7593c77cc0c7d95e"
+    url = "https://github.com/JuliaBinaryWrappers/mimalloc_jll.jl/releases/download/mimalloc-v2.1.2+0/mimalloc.v2.1.2.armv7l-linux-gnueabihf.tar.gz"
 [[mimalloc]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "ca7d2b2981b5846b74112e980c4f8518a0ed4535"
+git-tree-sha1 = "140327588e2ff9e190db477d84305c528e03fe4c"
 libc = "musl"
 os = "linux"
 
     [[mimalloc.download]]
-    sha256 = "aee9dd6a8024be7d3005f82eb7c51276396bab5b337939424b94a8c14f847fd4"
-    url = "https://github.com/JuliaBinaryWrappers/mimalloc_jll.jl/releases/download/mimalloc-v2.0.7+0/mimalloc.v2.0.7.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "3feec61756010ae69dcde7cb2eaf70071062e24bdefb62e352d5f3d5fc8a820b"
+    url = "https://github.com/JuliaBinaryWrappers/mimalloc_jll.jl/releases/download/mimalloc-v2.1.2+0/mimalloc.v2.1.2.armv7l-linux-musleabihf.tar.gz"
 [[mimalloc]]
 arch = "i686"
-git-tree-sha1 = "68d12e816b6385589c4b00dadfad15e15d78a863"
+git-tree-sha1 = "298c365e81b9a12493ce473e1cb6eeda051e7100"
 libc = "glibc"
 os = "linux"
 
     [[mimalloc.download]]
-    sha256 = "e1cb62f2520b24b229805b25180120dc7db5b899a37cc2ab8c39fd93401b82dd"
-    url = "https://github.com/JuliaBinaryWrappers/mimalloc_jll.jl/releases/download/mimalloc-v2.0.7+0/mimalloc.v2.0.7.i686-linux-gnu.tar.gz"
+    sha256 = "57da617b44f76c9c28534a5d7378c8f3256303506942b6cf70ee4d7927d66f6d"
+    url = "https://github.com/JuliaBinaryWrappers/mimalloc_jll.jl/releases/download/mimalloc-v2.1.2+0/mimalloc.v2.1.2.i686-linux-gnu.tar.gz"
 [[mimalloc]]
 arch = "i686"
-git-tree-sha1 = "7feac5e2260853b444eaaea96558d6c060431810"
+git-tree-sha1 = "52ddd497b3000348c80c997852050478f1cbed3d"
 libc = "musl"
 os = "linux"
 
     [[mimalloc.download]]
-    sha256 = "f1ed43b4b97e8f882ca4b86d9bd9130b01df2984739b6d48187b2ebf6ecdbad9"
-    url = "https://github.com/JuliaBinaryWrappers/mimalloc_jll.jl/releases/download/mimalloc-v2.0.7+0/mimalloc.v2.0.7.i686-linux-musl.tar.gz"
+    sha256 = "eb09e4356044631a3b5875a5df66dff86edda1e9773d888e7143ade3a56e3d21"
+    url = "https://github.com/JuliaBinaryWrappers/mimalloc_jll.jl/releases/download/mimalloc-v2.1.2+0/mimalloc.v2.1.2.i686-linux-musl.tar.gz"
 [[mimalloc]]
 arch = "i686"
-git-tree-sha1 = "713d515d0795fa425b8968296fa9bae78d8ddf71"
+git-tree-sha1 = "f74a9db0106c87c397fba66e328dc06bb3974198"
 os = "windows"
 
     [[mimalloc.download]]
-    sha256 = "2258073717082c54c4d4fa43e9037a81f8a464fcd5bba58d3f31792519f0b82f"
-    url = "https://github.com/JuliaBinaryWrappers/mimalloc_jll.jl/releases/download/mimalloc-v2.0.7+0/mimalloc.v2.0.7.i686-w64-mingw32.tar.gz"
+    sha256 = "f4f5f6bbfeac4b83bb02e4a010fc4ed592bbce6b76708cfbaa8d5665091522c6"
+    url = "https://github.com/JuliaBinaryWrappers/mimalloc_jll.jl/releases/download/mimalloc-v2.1.2+0/mimalloc.v2.1.2.i686-w64-mingw32.tar.gz"
 [[mimalloc]]
 arch = "powerpc64le"
-git-tree-sha1 = "e61b575e4f62f51d86c504c4187bce803b4aa9f7"
+git-tree-sha1 = "0d426f67b1da4f0143776aa62b34dc7b10b63a9d"
 libc = "glibc"
 os = "linux"
 
     [[mimalloc.download]]
-    sha256 = "5629659a7bdcf41260ec6e408fe25ae57c4c180e99de1f4e69ba5c31bd438d5e"
-    url = "https://github.com/JuliaBinaryWrappers/mimalloc_jll.jl/releases/download/mimalloc-v2.0.7+0/mimalloc.v2.0.7.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "6ab070812710ad9772c68fb8e6a9ed797ad16ce5495b9e237c94331399ff4688"
+    url = "https://github.com/JuliaBinaryWrappers/mimalloc_jll.jl/releases/download/mimalloc-v2.1.2+0/mimalloc.v2.1.2.powerpc64le-linux-gnu.tar.gz"
 [[mimalloc]]
 arch = "x86_64"
-git-tree-sha1 = "5452243c7071f63cb9ce2213710d09536311fe67"
+git-tree-sha1 = "5c88b29b8748b0e7e0941dc6da3abab55ea895a5"
 os = "macos"
 
     [[mimalloc.download]]
-    sha256 = "d4dde842571305273d6d3b50dde6ef2e47a0b77a4aba617ee1e90d847a55498f"
-    url = "https://github.com/JuliaBinaryWrappers/mimalloc_jll.jl/releases/download/mimalloc-v2.0.7+0/mimalloc.v2.0.7.x86_64-apple-darwin.tar.gz"
+    sha256 = "45af25b61776b4b763921b78c56f037627b3b0b80b484a42c7b5ce93b7b77b73"
+    url = "https://github.com/JuliaBinaryWrappers/mimalloc_jll.jl/releases/download/mimalloc-v2.1.2+0/mimalloc.v2.1.2.x86_64-apple-darwin.tar.gz"
 [[mimalloc]]
 arch = "x86_64"
-git-tree-sha1 = "722e830f6ddb54d8c476c3fb7858223ad8ccd7bd"
+git-tree-sha1 = "46cc719a4f55699fb4322b762be0479aec507eef"
 libc = "glibc"
 os = "linux"
 
     [[mimalloc.download]]
-    sha256 = "6e9520108489fed841268b5edd0ef597b4c904e355a92ee9a7a0319c77db4bf2"
-    url = "https://github.com/JuliaBinaryWrappers/mimalloc_jll.jl/releases/download/mimalloc-v2.0.7+0/mimalloc.v2.0.7.x86_64-linux-gnu.tar.gz"
+    sha256 = "4261e6655c211722ecfc200b94b72a784ab395498b19f158101523bd03d26ee1"
+    url = "https://github.com/JuliaBinaryWrappers/mimalloc_jll.jl/releases/download/mimalloc-v2.1.2+0/mimalloc.v2.1.2.x86_64-linux-gnu.tar.gz"
 [[mimalloc]]
 arch = "x86_64"
-git-tree-sha1 = "6f0ca68c891d820dd0f6111090164cbdf74b9f5d"
+git-tree-sha1 = "2cd15662ae27cbf901eb9f8776661f8c820eadcc"
 libc = "musl"
 os = "linux"
 
     [[mimalloc.download]]
-    sha256 = "fe7573c443440c9925d5e9164e9ed6b5683abce5f1cf8d8f13d3be42828a59e4"
-    url = "https://github.com/JuliaBinaryWrappers/mimalloc_jll.jl/releases/download/mimalloc-v2.0.7+0/mimalloc.v2.0.7.x86_64-linux-musl.tar.gz"
+    sha256 = "47f2ae95d609ada3a9f4fadebc8582bea3d237f632b920f814a8b37f8539e876"
+    url = "https://github.com/JuliaBinaryWrappers/mimalloc_jll.jl/releases/download/mimalloc-v2.1.2+0/mimalloc.v2.1.2.x86_64-linux-musl.tar.gz"
 [[mimalloc]]
 arch = "x86_64"
-git-tree-sha1 = "fa91b285bc8cf293683a71ccdc8ddf7a763c7861"
+git-tree-sha1 = "4636205edea9d55880a4891887bf37ad6d41308f"
 os = "freebsd"
 
     [[mimalloc.download]]
-    sha256 = "a98ad9d1273e4f3f100643b91d1ed93a82e52a6a314e47e11348bf4f6c2c6227"
-    url = "https://github.com/JuliaBinaryWrappers/mimalloc_jll.jl/releases/download/mimalloc-v2.0.7+0/mimalloc.v2.0.7.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "b8318f2dae5cbad26819386d28cb3147206f903cb92930a5bb1e2927ec78f009"
+    url = "https://github.com/JuliaBinaryWrappers/mimalloc_jll.jl/releases/download/mimalloc-v2.1.2+0/mimalloc.v2.1.2.x86_64-unknown-freebsd.tar.gz"
 [[mimalloc]]
 arch = "x86_64"
-git-tree-sha1 = "1872aa1f3ccdeed518fb3901306398df6361c6c6"
+git-tree-sha1 = "18d52812441a3f5252172e10a54c9f71a0a840aa"
 os = "windows"
 
     [[mimalloc.download]]
-    sha256 = "02f7133b4eb452ff7ced942833eb3cbf19bd94678ac03a888b334026d222b342"
-    url = "https://github.com/JuliaBinaryWrappers/mimalloc_jll.jl/releases/download/mimalloc-v2.0.7+0/mimalloc.v2.0.7.x86_64-w64-mingw32.tar.gz"
+    sha256 = "472ebfa519e4aa9595c359ab219f834ad28f337d7adc3bc26302486037d94b12"
+    url = "https://github.com/JuliaBinaryWrappers/mimalloc_jll.jl/releases/download/mimalloc-v2.1.2+0/mimalloc.v2.1.2.x86_64-w64-mingw32.tar.gz"
